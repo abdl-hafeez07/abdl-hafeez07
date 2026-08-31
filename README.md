@@ -1,86 +1,176 @@
-<h1 align="center">Hi 👋, I'm Abdul Hafeez</h1>
-<h3 align="center">M.Sc. Computer Science (Data Analytics) Student | Data Science & AI Enthusiast</h3>
+<div align="center">
+
+# Abdul Hafeez
+
+### Data Science • Artificial Intelligence • Machine Learning • Data Analytics
+
+**M.Sc. Computer Science (Data Analytics) Student**
+Rajagiri College of Social Sciences
+
+Building practical, data-driven solutions while exploring the intersection of **AI, machine learning, and real-world problem solving.**
+
+<br>
+
+<a href="https://github.com/abdl-hafeez07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/abdul-hafeez-523389365">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 Pursuing **M.Sc. Computer Science (Data Analytics)** at Rajagiri College of Social Sciences.
+I'm an **M.Sc. Computer Science (Data Analytics)** student at **Rajagiri College of Social Sciences**, interested in using data and intelligent systems to solve practical problems.
 
-💡 Passionate about solving real-world problems using **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
+My interests span **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics**, with a particular focus on learning through hands-on projects and experimentation.
 
-🚀 Currently working on Deep Learning projects for medical image classification.
-
-🌱 Continuously learning new technologies and improving my skills in AI and Data Science.
+Currently, I'm exploring deep learning for **medical image classification** while continuously strengthening my foundations in data science and AI.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🧠 Brain Tumor Classification using Deep Learning
-- 🤖 Machine Learning
-- 📊 Data Analytics
-- 📈 Data Visualization
-- ☁️ AI-powered Applications
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Deep Learning
+
+Exploring brain MRI classification and computer vision using modern deep learning approaches.
+
+</td>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+Building predictive models and exploring practical machine learning workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data Analytics
+
+Working with data to discover patterns, generate insights, and support better decisions.
+
+</td>
+<td width="50%">
+
+### 📈 Data Visualization
+
+Transforming data into clear and meaningful visual insights.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Tools
+## Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,git,github,vscode,opencv,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql" alt="Python, R, MySQL"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow, PyTorch, OpenCV"/>
+</p>
+
+### Data & Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>
+
+**NumPy • Pandas • Matplotlib • Data Analytics • Data Visualization**
+
+### Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" alt="Git, GitHub, VS Code, Anaconda"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🧠 Brain Tumor Classification
 
-Deep learning model for classifying Brain MRI images into:
+A deep learning project focused on classifying **brain MRI images** into four categories:
 
-- Glioma
-- Meningioma
-- Pituitary Tumor
-- No Tumor
+`Glioma` · `Meningioma` · `Pituitary Tumor` · `No Tumor`
 
-**Tech Stack**
+**Tech:** TensorFlow · EfficientNetV2-S · OpenCV · NumPy · Matplotlib
 
-- TensorFlow
-- EfficientNetV2-S
-- OpenCV
-- NumPy
-- Matplotlib
+[View Project →](PROJECT_URL)
 
 ---
 
 ### 📈 Store Sales & Profit Prediction
 
-Machine Learning project for predicting retail sales and profit using ensemble learning.
+A machine learning project focused on predicting **retail sales and profit** using ensemble learning techniques.
+
+**Focus:** Predictive Modeling · Machine Learning · Retail Analytics
+
+[View Project →](PROJECT_URL)
 
 ---
 
 ### 🌡️ Cloud-Based Temperature Monitoring
 
-IoT + Cloud project for monitoring temperature using Python and cloud databases.
+An **IoT + Cloud** project for monitoring temperature using Python and cloud-based databases.
+
+**Focus:** IoT · Python · Cloud Database · Real-Time Monitoring
+
+[View Project →](PROJECT_URL)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=abdl-hafeez07&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdl-hafeez07&theme=tokyonight)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdl-hafeez07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Abdul Hafeez's GitHub Stats"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdl-hafeez07&layout=compact&theme=tokyonight)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdl-hafeez07&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdl-hafeez07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-- GitHub: https://github.com/abdl-hafeez07
-- LinkedIn: www.linkedin.com/in/abdul-hafeez-523389365
+<div align="center">
+
+<a href="https://github.com/abdl-hafeez07">
+  <img src="https://img.shields.io/badge/GitHub-abdl--hafeez07-181717?style=flat-square&logo=github" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdul-hafeez-523389365">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Hafeez-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
-⭐ *"Learning never stops. Every project is a step toward becoming a better AI Engineer."*
+<div align="center">
+
+**AI • Data • Learning • Building**
+
+*Curious about the problem. Focused on the data. Learning through building.*
+
+</div>
